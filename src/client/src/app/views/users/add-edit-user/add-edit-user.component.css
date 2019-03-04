@@ -1,0 +1,21 @@
+.container{
+        margin-top: 15px;
+        border-radius: 4%;
+        padding-top: 1%;
+        padding-bottom: 5%;
+        padding-left: 5%;
+        padding-right: none;
+        background-color: rgb(252, 247, 255);
+    
+    /* background-color: darkslategrey;
+    color: antiquewhite;
+    margin-inline-start: auto;
+    margin-top: 5%;
+    padding-bottom: 5%; */
+}
+
+.btn.btn-default{
+    float: right;
+    background-color: antiquewhite;
+    margin: 2px;
+}
